@@ -1,0 +1,3 @@
+Although it is not official for pypinyin:
+http://blog.csdn.net/qq_21970857/article/details/46532221
+
